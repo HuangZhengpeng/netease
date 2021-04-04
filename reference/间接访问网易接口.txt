@@ -1,0 +1,13 @@
+手机端
+
+推荐歌单https://autumnfish.cn/personalized?limit=6
+
+最新音乐https://autumnfish.cn/personalized/newsong
+可选?limit=
+
+热歌榜https://autumnfish.cn/playlist/detail?id=3778678
+
+热门搜索https://autumnfish.cn/search/hot
+
+多重匹配/search/multimatch?keywords= 海阔天空
+
