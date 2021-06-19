@@ -1,21 +1,5 @@
-# vue_demo
+#网易云音乐山寨版
+只有手机端，几乎完全模仿网易云音乐界面。去掉了客户端链接，增加了下载功能，播放稍有不同。
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##技术
+spa应用，vue2.0写成。
